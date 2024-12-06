@@ -9,7 +9,7 @@ https://github.com/ECAPlatform/Chatbot_BusinessAgent_Vue_Publish
 
 
 
-1. 编译bot portal项目
+1. 编译agent项目
 2. 编译后文件 放到 /html/agent 下面
 3. 推送到 Chatbot_BusinessAgent_Vue_Publish
 4. 5分钟后测试环境生效
