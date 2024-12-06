@@ -1,7 +1,9 @@
 # Chatbot_BusinessAgent_Vue_Publish
 https://github.com/ECAPlatform/Chatbot_BusinessAgent_Vue_Publish
 
-
+####  how to pubish file to testing environment?
+1.  upload all file to github.com through https
+2.  use git tools to push your release file 
 
 直接推送， 5分钟后自动生效，可以通过查看版本号，确认系统是否生效。
 
