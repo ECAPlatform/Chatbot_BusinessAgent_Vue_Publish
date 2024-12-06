@@ -3,7 +3,7 @@ https://github.com/ECAPlatform/Chatbot_BusinessAgent_Vue_Publish
 
 
 
-直接推送， 15分钟后自动生效，可以通过查看版本号，确认系统是否生效。
+直接推送， 5分钟后自动生效，可以通过查看版本号，确认系统是否生效。
 
 #### bot portal 发布
 
