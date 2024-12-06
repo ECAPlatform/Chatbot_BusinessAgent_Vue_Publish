@@ -1,7 +1,7 @@
 # Chatbot_BusinessAgent_Vue_Publish
 https://github.com/ECAPlatform/Chatbot_BusinessAgent_Vue_Publish
 
-####  how to pubish file to testing environment?
+####  How to pubish file to testing environment?
 1.  upload all file to github.com through https
 2.  use git tools to push your release file 
 
